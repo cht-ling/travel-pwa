@@ -1,0 +1,6 @@
+{
+  "name": "Customs Travel Itinerary",
+  "description": "A travel itinerary builder and official border control presentation document for immigration and customs officers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
