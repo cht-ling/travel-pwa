@@ -186,7 +186,7 @@ Fortnum & Mason: 餅乾、茶葉等伴手禮。白金漢宮、皇家交易所、
  抵達冰島機場:Zero car 取車，前往飯店入住。`,ticketOptions:[{name:"白金漢宮參觀",onlinePrice:"£33（約 NT$1,403）",onsitePrice:"£37（約 NT$1,573）",note:"若包含花園導覽，套票約 £48；僅參觀宮殿外觀不用門票。"},{name:"西敏寺",onlinePrice:"£29（約 NT$1,233）",onsitePrice:"£33（約 NT$1,403）",note:"建議提前線上購票。"},{name:"大笨鐘導覽",onlinePrice:"£55（約 NT$2,338）",note:"此價格為導覽票估算；單純參觀外觀不用門票。"}],accommodationHotelName:"Airbnb: Hafnargata",transportationMode:"伊莉莎白線 + Icelandair 飛機"},{dayNumber:4,date:"2026-09-27",dayOfWeek:"Sun",cityOrArea:"冰島：Road trip start!!",morningActivity:`@ Costco、超市、採買、加油站採買、加油後享用午餐
 ~ 🚗 車程 1 小時 45 分鐘 · 127 km`,afternoonActivity:`@ 赫倫熔岩瀑布 Hraunfossar
 > 欣賞熔岩瀑布與自然景觀
-~ 🚗 車程 1  25 分鐘 · 103 km 
+~ 🚗 車程 1小時 25 分鐘 · 103 km 
 @ 玄武岩石牆 Gerðuberg Cliffs
 > 欣賞玄武岩柱狀節理地形
 `,eveningActivity:`~ 🚗 車程 48 分鐘 · 55.7 km
@@ -296,9 +296,8 @@ Icewear Akureyri:營業時間:10:00–18:00`,ticketOptions:[{name:"冰島馬 1 �
 ! 溫泉水會讓頭髮變得非常乾硬，建議抹厚厚的護髮乳且不要弄濕頭髮
 ~ 🚗 車程 14 分鐘 · 13.1 km
 @ 維提火山湖 Víti
-> 欣賞火山口湖景觀
+> 欣賞火山口湖景觀，冰島海拔較高的火口湖之一
 # 附近：克拉夫拉火山
-> 冰島海拔較高的火口湖之一
 ~ 🚗 車程 17 分鐘 · 16.8 km`,eveningActivity:`@ Vogafjós Farm Resort
 > 晚餐
 # 推薦燻羊肉
@@ -399,7 +398,7 @@ Pakkhús Restaurant:http://www.pakkhus.is/
 # Check in 16:00–00:00
 # Check out –11:00
 # 地址：881 Kirkjubæjarklaustur, 冰島`,notes:`傑古沙龍冰河湖:已預約10：00遊船需提前 20 分鐘集合。
-Arctic Adventures - Glacier Guides：13:30 冰川健行行程，需提前 20 分鐘集合；停車費 1,040 ISK。
+Arctic Adventures - Glacier Guides: 13：30 冰川健行行程，需提前 20 分鐘集合；停車費 1,040 ISK。
 斯卡夫塔山冰川冰河健行，行程約 4 小時。
 The holiday houses by Stay in Iceland:Check in time 16：00–00：00`,ticketOptions:[{name:"傑古沙龍冰河湖 Jökulsárlón Boat Tour",onlinePrice:"",note:"10:00 遊船；需提前 20 分鐘集合。"},{name:"斯卡夫塔山冰川冰河健行",onlinePrice:"",note:"13:30 出發；需提前 20 分鐘集合；行程約 4 小時。"}],accommodationHotelName:"Booking: The holiday houses by Stay in Iceland",transportationMode:"租車"},{dayNumber:11,date:"2026-10-04",dayOfWeek:"Sun",cityOrArea:"冰島：Vík／South Coast",morningActivity:`@ The holiday houses by Stay in Iceland
 # Check out
